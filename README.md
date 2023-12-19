@@ -1,1 +1,1 @@
-# PLastic-Waste-Management
+# Plastic-Waste-Management
